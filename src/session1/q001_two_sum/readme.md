@@ -10,3 +10,5 @@
 4. key in dict
 
 5.面向对象：s = Solution()
+
+6.print(list)
