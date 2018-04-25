@@ -1,4 +1,4 @@
-class Solution:
+class Solution1:
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
@@ -19,7 +19,7 @@ class Solution:
                 mapObj[num] = i
         return ret
 
-s = Solution()
+s = Solution1()
 nums = [2, 7, 11, 15]
 target = 9
 print(s.twoSum(nums,target))

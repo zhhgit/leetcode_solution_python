@@ -12,3 +12,7 @@
 5.面向对象：s = Solution()
 
 6.print(list)
+
+7.def funcName(self,param1,param2):
+    do something
+    return something
