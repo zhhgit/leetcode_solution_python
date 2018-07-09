@@ -7,3 +7,5 @@
     do something2
   else:
     do something3
+
+3.反转数字后，判断是否相等
