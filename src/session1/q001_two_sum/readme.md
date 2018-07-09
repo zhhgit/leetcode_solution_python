@@ -17,4 +17,4 @@
     do something
     return something
 
-8.dict记录出现过的数字的位置
+8.dict记录出现过的数字的位置,dict[key] = value
