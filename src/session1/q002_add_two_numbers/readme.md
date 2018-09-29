@@ -10,7 +10,7 @@
 
 6.类中的某个方法调用其他方法：self.another_method()
 
-7.is None, is not None
+7.is None, is not None 返回True或者False
 
 8.while condition :
     do something

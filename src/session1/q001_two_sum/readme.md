@@ -7,7 +7,7 @@
   else:
     do something
 
-4. key in dict
+4. key in dict，返回True或者False
 
 5.面向对象：s = Solution()
 
