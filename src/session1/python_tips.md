@@ -77,3 +77,5 @@ def funcName(self,param1,param2):
     def __init__(self, x):
         self.val = x
         self.next = None
+
+32.队列，from collections import deque，有append(),popleft()方法
