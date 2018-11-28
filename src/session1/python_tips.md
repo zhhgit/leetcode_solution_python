@@ -85,3 +85,5 @@ def funcName(self,param1,param2):
 34.str.strip(), str.lstrip(), str.rstrip()去除两侧、左侧、右侧空格
 
 35.str.isspace()是否为空字符串，str.isalpha()是否为字母，str.isdigit()是否为数字
+
+36.列表排序list.sort()
