@@ -19,6 +19,7 @@ def funcName(self,param1,param2):
     return something
 
 8.字典dict[key] = value
+dict.pop(key)
 
 9.@staticmethod：类方法，方法参数中没有self
 
