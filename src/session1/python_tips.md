@@ -90,3 +90,5 @@ dict.pop(key)
 36.列表排序list.sort()
 
 37.拼接list中的字符为一个字符串，"".join(list)
+
+38.判断列表中是否包含某元素 if ele in arr
