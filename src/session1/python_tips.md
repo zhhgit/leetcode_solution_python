@@ -91,4 +91,6 @@ dict.pop(key)
 
 37.拼接list中的字符为一个字符串，"".join(list)
 
-38.判断列表中是否包含某元素 if ele in arr
+38.判断列表中是否包含某元素 if ele in arr，或者判断list.count(obj) == 0
+
+39.注意Python对于字典和列表是传递的对象引用，即可以修改原对象，对于数字、字符串、元组是传递的值。
