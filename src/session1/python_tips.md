@@ -94,3 +94,6 @@ dict.pop(key)
 38.判断列表中是否包含某元素 if ele in arr，或者判断list.count(obj) == 0
 
 39.注意Python对于字典和列表是传递的对象引用，即可以修改原对象，对于数字、字符串、元组是传递的值。
+
+40.列表的浅拷贝: (1)listb=lista[:],(2)listb=list(lista),(3)listb=[i for i in lista],(4)import copy;listb=copy.copy(lista)
+深拷贝: (1)import copy;listb=copy.deepcopy(lista)
