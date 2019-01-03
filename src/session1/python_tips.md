@@ -87,7 +87,7 @@ dict.pop(key)
 
 35.str.isspace()是否为空字符串，str.isalpha()是否为字母，str.isdigit()是否为数字
 
-36.列表排序list.sort()
+36.列表排序list.sort()，倒序list.sort(reverse = True)
 
 37.拼接list中的字符为一个字符串，"".join(list)
 
