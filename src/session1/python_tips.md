@@ -97,3 +97,5 @@ dict.pop(key)
 
 40.列表的浅拷贝: (1)listb=lista[:],(2)listb=list(lista),(3)listb=[i for i in lista],(4)import copy;listb=copy.copy(lista)
 深拷贝: (1)import copy;listb=copy.deepcopy(lista)
+
+41.对象列表排序，list.sort(key = sortMethod)，其中sortMethod为排序方法，return的是排序依据的字段。
