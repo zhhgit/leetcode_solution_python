@@ -99,3 +99,5 @@ dict.pop(key)
 深拷贝: (1)import copy;listb=copy.deepcopy(lista)
 
 41.对象列表排序，list.sort(key = sortMethod)，其中sortMethod为排序方法，return的是排序依据的字段。
+
+42.二维数组初始化：initMatrix = [[0 for i in range(m)] for j in range(n)]
