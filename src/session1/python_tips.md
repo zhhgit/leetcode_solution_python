@@ -101,3 +101,5 @@ dict.pop(key)
 41.对象列表排序，list.sort(key = sortMethod)，其中sortMethod为排序方法，return的是排序依据的字段。
 
 42.二维数组初始化：initMatrix = [[0 for i in range(m)] for j in range(n)]
+
+43.str.split("/",-1)，其中-1表示分割所有
